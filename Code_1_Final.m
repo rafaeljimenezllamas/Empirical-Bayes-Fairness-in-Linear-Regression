@@ -10,7 +10,7 @@
 %% Code 1: Simulations
 
 N = 1000;   % Number of data points
-p = 2;      % Number of predictors
+p = 5;      % Number of predictors
 
 % Normal-Gamma based synthetic data
 
