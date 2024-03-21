@@ -7,7 +7,7 @@ If one wants to work with simulations, then it must use Code_1_Final. In this Co
 
 Additionally, in Code_5_Final one can set certain optimization parameters for the optimization solver, the number of folds (Num), the grid of epsilons on which the problem will be solved and on which set must the fairness constraint be imposed.
 
-The standard version of the code is set to use simulated data with N=1000 and p=5, 2 folds and with the fairness constraint enforced in the train set.
+The standard version of the code is set to use simulated data with N=1000 and p=5, 2 folds and with the fairness constraint enforced in the test set.
 
 **To obtain results for the Code_1 selected, one would only have to run Code_5_Final changing the corresponding names for the saved data to whichever names one wants**.
 If it is desired to obtain results for different datasets, one must create a new Code_1. The requisites for this Code_1 is that it must deliver 3 things:
